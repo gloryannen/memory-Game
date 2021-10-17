@@ -14,7 +14,7 @@ body{
   color: rgb(221, 121, 0);
   font-size: 4rem;
   min-height: 100vh;
-  background-image: url('https://free4kwallpapers.com/uploads/originals/2016/06/17/top-2016-halloween-4k-wallpaper.jpg');
+  background: radial-gradient(ellipse at center, rgb(255,163,43) 0%,rgb(221,121,0) 100%);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
